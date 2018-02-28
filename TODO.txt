@@ -1,0 +1,7 @@
+- eseguire cpuCompileBug.sh per compilare
+- l'eseguibile viene creato dentro cpuBuildBug
+- dalla cartella cpuBuildBug eseguire 
+		./tracking-itsu-main ../event4.txt 
+		./tracking-itsu-main "path al file data.txt"
+-il numero totale delle tracklets trovate per l'evento 4 è diverso
+ (in particolare le tracklets trovate per l'ultimo layer sono diverse)
